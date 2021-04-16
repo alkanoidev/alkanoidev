@@ -10,6 +10,7 @@ Interested in:
   - Android App Development (Kotlin/Java)  
   - Web Design (HTML/CSS)  
   - UX/UI Design (Figma)  
+  - Logo Design  
   
  Other skills:  
   - JavaFX  
