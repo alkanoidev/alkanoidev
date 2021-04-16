@@ -2,7 +2,7 @@
 
 It's ***Filip***. :wave:  
 I am an ***junior Android App Developer***.  
-This is my work and also my hobby.  
+This is my job and also my hobby.  
 Follow me through my developer journey. :heart:  
 
 ***@alkanoidev***
