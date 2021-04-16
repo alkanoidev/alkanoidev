@@ -1,6 +1,6 @@
 ### Hi there!
 
-It's ***Filip***.
+It's ***Filip***. :wave:  
 I am an ***junior Android App Developer***. This is my work and also my hobby.
 And this is my developer journey.
 
