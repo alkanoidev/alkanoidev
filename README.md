@@ -1,7 +1,7 @@
 ### Hi there!
 
 It's ***Filip***. :wave:  
-I am an ***junior Android App Developer***.  
+I am an 16 year old ***junior Android App Developer***.  
 This is my job and also my hobby.  
 Follow me through my developer journey. :heart:  
 
