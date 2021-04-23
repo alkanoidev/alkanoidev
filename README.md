@@ -3,7 +3,7 @@
 It's ***Filip***. :wave:  
 I am an 16 year old ***junior Android App Developer***.  
 This is my job and also my hobby.  
-Follow me through my developer journey. :heart:  
+Follow me through my journey. :heart:  
 
 ***@alkanoidev*** 
 
