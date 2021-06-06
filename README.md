@@ -7,6 +7,7 @@ who knows a bit more things.
 
 Follow me through my journey.:world_map:  
 <br>
+<br>
 <p float="left">
   <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png">
   <img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png">
