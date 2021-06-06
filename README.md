@@ -1,5 +1,5 @@
 <img align="left" alt="Avatar" width="200px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" />
-### Hi there!
+Hi there!
 
 It's ***Filip***, :wave:  
 self-taught ***junior Android App Developer***,  
@@ -22,7 +22,7 @@ Follow me through my journey.:world_map:
   <img height="50" src="http://cdn.onlinewebfonts.com/svg/img_178343.png">
  </p>
  <br>
- #### 📫 How to reach me
+ 📫 How to reach me
  <br>
   <a href="mailto:alkanoidev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
   filib#2161<img height="50" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png">
