@@ -27,7 +27,7 @@ Follow me through my journey.:world_map:
   <p>
   <a href="mailto:alkanoidev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
   </p>
-  <p>
+  <p float="right">
   filib#2161<img height="50" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png">
   </p
   
