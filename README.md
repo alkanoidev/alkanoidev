@@ -1,10 +1,6 @@
-<img align="left" alt="Avatar" width="200px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" />
 Hi there!
 
 It's ***Filip***, :wave:  
-self-taught ***junior Android App Developer***,  
-who knows a bit more things.  
-
 Follow me through my journey.:world_map:  
 <br>
 <br>
