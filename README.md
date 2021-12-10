@@ -1,1 +1,1 @@
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=8&theme=algolia"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkanoidev&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
