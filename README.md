@@ -21,10 +21,10 @@
       frameworks: { // libraries or runtimes
         react: ["MaterialUI", "styled-components",
 "react-router", "Bootstrap"],
-        "NodeJs",
-        "ExpressJs"
+        nodejs: ["ExpressJs"],
       },
-      tools: ["Git","Github","VSCode","Figma"],
+      databases: ["MySQL","mongodb"],
+      tools: ["Git","Github","netlify","VSCode","Figma"],
     },
   }
 ```
