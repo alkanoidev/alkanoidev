@@ -18,11 +18,12 @@
         "C#",
         "SQL",
       ],
-      frameworks: [ // libraries or runtimes
-        "React",
+      frameworks: { // libraries or runtimes
+        react: ["MaterialUI", "styled-components",
+"react-router", "Bootstrap"],
         "NodeJs",
         "ExpressJs"
-      ],
+      },
       tools: ["Git","Github","VSCode","Figma"],
     },
   }
