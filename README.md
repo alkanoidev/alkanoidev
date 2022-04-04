@@ -1,43 +1,27 @@
 ```js
 const ABOUT_ME = {
-  name: {
-      fname: "Filip",
-      lname: "Ivanović"
-  },
+  name: { fname: "Filip", lname: "Ivanović" },
   nationality: "Serbian",
   location: "Serbia",
   languages: ["English", "Serbian"],
   tech: {
-    languages: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "C/C++",
-      "Java",
-      "Kotlin",
-      "C#",
-      "SQL",
-    ],
+    languagesAndMarkups: [
+      "HTML", "CSS", "JavaScript",
+      "C/C++", "Java", "Kotlin", 
+      "C#", "SQL" ],
     frameworks: { // libraries or runtimes
       react: [
-        "MaterialUI", 
-        "styled-components",
-        "react-router", 
-        "Bootstrap"
+        "MaterialUI", "styled-components",
+        "react-router"
       ],
       nodejs: ["ExpressJs"],
+      css: ["Bootstrap"]
     },
-    databases: [
-      "MySQL", 
-      "mongodb"
-    ],
+    databases: [ "MySQL", "mongodb" ],
     tools: [
-      "Git", 
-      "Github", 
-      "netlify", 
-      "Sass", 
-      "VSCode",
-      "Figma"
+      "Git", "Github", 
+      "netlify", "Sass", 
+      "VSCode", "Figma"
     ],
   },
 }
