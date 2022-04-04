@@ -12,7 +12,7 @@ const ABOUT_ME = {
     frameworks: { // libraries or runtimes
       react: [
         "MaterialUI", "styled-components",
-        "react-router"
+        "react-router", "Framer-Motion"
       ],
       nodejs: ["ExpressJs"],
       css: ["Bootstrap"]
