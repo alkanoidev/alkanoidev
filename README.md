@@ -15,7 +15,7 @@ const ABOUT_ME = {
         "react-router", "Framer-Motion"
       ],
       nodejs: ["ExpressJs"],
-      css: ["Bootstrap"]
+      css: ["Bootstrap", "Tailwind"]
     },
     databases: [ "MySQL", "mongodb" ],
     tools: [
