@@ -6,7 +6,7 @@ const about = {
       "HTML", "CSS", "JavaScript",
       "C/C++", "Java", "Kotlin", 
       "C#", "SQL" ],
-    frameworks: { // libraries or runtimes
+    frameworks: { // libraries and runtimes
       react: [
         "MaterialUI", "styled-components",
         "react-router", "Framer-Motion"
