@@ -19,6 +19,7 @@ const about = {
       "Git", "Github", 
       "netlify", "VSCode", "Figma",
       "Prettier", "Postman",
+      "Intellij", "Android Studio",
     ],
   },
   nationality: "Serbian",
