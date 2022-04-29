@@ -2,7 +2,7 @@
 const about = {
   name: { fname: "Filip", lname: "Ivanović" },
   tech: {
-    languagesAndMarkups: [
+    languages: [ // markups
       "HTML", "CSS", "JavaScript",
       "C/C++", "Java", "Kotlin", 
       "C#", "SQL" ],
@@ -11,14 +11,14 @@ const about = {
         "MaterialUI", "styled-components",
         "react-router", "Framer-Motion"
       ],
-      nodejs: ["ExpressJs"],
-      css: ["Bootstrap", "TailwindCss"]
+      nodejs: ["ExpressJs", "Axios", "Ejs"],
+      css: ["Sass", "Bootstrap", "TailwindCss"]
     },
-    databases: [ "MySQL", "mongodb" ],
+    databases: [ "MySQL", "MongoDB" ],
     tools: [
       "Git", "Github", 
-      "netlify", "Sass", 
-      "VSCode", "Figma"
+      "netlify", "VSCode", "Figma",
+      "Prettier", "Postman",
     ],
   },
   nationality: "Serbian",
