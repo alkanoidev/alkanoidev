@@ -2,14 +2,15 @@
 const about = {
   name: { fname: "Filip", lname: "Ivanović" },
   tech: {
-    languages: [ // markups
+    languages: [
       "HTML", "CSS", "JavaScript",
       "C/C++", "Java", "Kotlin", 
       "C#", "SQL" ],
-    frameworks: { // libraries and runtimes
+    frameworks: {
       react: [
         "MaterialUI", "styled-components",
-        "react-router", "Framer-Motion"
+        "react-router", "Framer-Motion", 
+        "create-react-app", "vite"
       ],
       nodejs: ["ExpressJs", "Axios", "Ejs"],
       css: ["Sass", "Bootstrap", "TailwindCss"]
@@ -17,9 +18,10 @@ const about = {
     databases: [ "MySQL", "MongoDB" ],
     tools: [
       "Git", "Github", 
-      "netlify", "VSCode", "Figma",
-      "Prettier", "Postman",
-      "Intellij", "Android Studio",
+      "netlify", "VSCode", 
+      "Figma", "Prettier", 
+      "Postman", "Intellij", 
+      "Android Studio"
     ],
   },
   nationality: "Serbian",
