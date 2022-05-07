@@ -8,7 +8,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
   </kbd>
-  <br />
+  <br>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -20,7 +20,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </kbd>
-  <br />
+<br>
   <kbd>
     <kbd>Libraries/Frameworks</kbd>
     <br>
@@ -38,7 +38,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   </kbd>
-  <br />
+<br>
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -56,7 +56,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
   </kbd>
-  <br />
+  <br>
   <kbd>
     <kbd>Databases</kbd>
     <br>
@@ -65,3 +65,4 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </kbd>
+</p>
