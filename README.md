@@ -1,7 +1,7 @@
 <img align="right" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">  
 <br>
 <p align="center">
-  <kbd>
+  <kbd align="center">
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -9,7 +9,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
   </kbd>
-  <kbd>
+  <br>
+  <kbd align="center">
     <kbd>Back-end</kbd>
     <br>
     <br>
@@ -20,7 +21,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </kbd>
-  <kbd>
+  <br>
+  <kbd align="center">
     <kbd>Libraries/Frameworks</kbd>
     <br>
     <br>
@@ -36,7 +38,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   </kbd>
-  <kbd>
+  <br>
+  <kbd align="center">
     <kbd>Tools</kbd>
     <br>
     <br>
@@ -52,7 +55,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
   </kbd>
-  <kbd>
+  <br>
+  <kbd align="center">
     <kbd>Databases</kbd>
     <br>
     <br>
