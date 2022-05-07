@@ -29,7 +29,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="55px" src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" />
     <img width="70px" src="https://styled-components.com/icon.png" />
-    <br />
     <img width="30px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" />
     <img width="30px" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" />
     <img width="30px" src="https://seeklogo.com/images/C/create-react-app-logo-BA592B4FB4-seeklogo.com.png" />
@@ -46,7 +45,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <br />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
