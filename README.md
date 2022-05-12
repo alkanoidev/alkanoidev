@@ -1,11 +1,12 @@
 <p align="left">
-<img align="right" width="20%" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">
+<img align="right"src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">
   
 Hi! My name is Filip Ivanovic.  
 I am primarily a Frontend developer interested in web and android technologies.  
 I love working on fun and interesting projects and keeping up with the urban programming world.  
 My frontend framework (library) of choice is **React**.  
 I also love open-source projects and orange cats :)    
+<br>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
