@@ -1,7 +1,5 @@
-<p align="left">
-<img align="right"src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">
-  
-# About
+<img align="right" float="right" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">
+
 Hi!  
 My name is Filip Ivanovic.  
 I am primarily a Frontend developer interested in web and android technologies.  
@@ -29,6 +27,3 @@ I also love open-source projects and orange cats :)
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-  
-  
-</p>
