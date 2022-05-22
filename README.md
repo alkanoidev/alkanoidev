@@ -5,11 +5,11 @@
     <img width="300" src="https://i.giphy.com/media/K7o9FdCoDnwEo/giphy.webp">
   </p>
 <p align="center">
-  Hi👋   
-  My name’s Filip.  
-  I am a Frontend developer interested in web and android technologies.  
-  I love working on fun and interesting projects and keeping up with the urban programming world.  
-  My frontend framework (library) of choice is **React**.  
+  Hi👋   <br />
+  My name’s Filip.  <br />
+  I am a Frontend developer interested in web and android technologies.  <br />
+  I love working on fun and interesting projects and keeping up with the urban programming world.  <br />
+  My frontend framework (library) of choice is React.  <br />
   I also love open-source projects and orange cats :)   
 </p>
 <p align="center">
