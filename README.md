@@ -1,6 +1,8 @@
-# About  
+# About
 
-<img align="right" width="250" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76112b97e5285caf5cfc92b29d8dfab334ee6d47c26c&rid=giphy.gif&ct=g">
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="cat.png" width=200 />
+</a>
 
 Hi👋   
 My name’s Filip.  
@@ -32,8 +34,8 @@ I also love open-source projects and orange cats :)
 <p align="left">
 <a href="https://github.com/alkanoidev">
   
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=8&theme=onedark" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_title=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=8&theme=onedark&exclude_repo=mapgenerator&hide_title=true" />
   
 </a>
 </p>
