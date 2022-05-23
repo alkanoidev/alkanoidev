@@ -35,9 +35,9 @@
 </p>
 <p align="left">
   <a href="https://github.com/alkanoidev">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_title=true" width="400" />
+    
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=8&theme=onedark&exclude_repo=mapgenerator&hide_title=true" />
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_title=true" width="400" />
+
   </a>
 </p>
