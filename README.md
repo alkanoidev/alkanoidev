@@ -4,12 +4,17 @@
   <img width="300" src="https://i.giphy.com/media/K7o9FdCoDnwEo/giphy.webp">
 </p>
 
-  > Hi👋  
+  Hi👋  
   My name’s Filip.  
   I am a Frontend developer interested in web and android technologies.  
   I love working on fun and interesting projects and keeping up with the urban programming world.  
   My frontend framework (library) of choice is React.  
   I also love open-source projects and orange cats :)  
+  I blog on
+  <a href="https://alkanoidev.hashnode.dev/">
+    hashnode >
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="20" />
+  </a>
   
 <p align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
