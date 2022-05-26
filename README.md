@@ -10,7 +10,7 @@
   I love working on fun and interesting projects and keeping up with the urban programming world.  
   My frontend framework (library) of choice is React.  
   I also love open-source projects and orange cats :)  
-  I blog on
+  I sometimes blog on
   <a href="https://alkanoidev.hashnode.dev/">
     hashnode >
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="20" />
