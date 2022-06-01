@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react, node, mongodb**
 
-- 👯 I’m looking to collaborate on **full-stack projects**
+- 👯 I’m looking to collaborate on **full-stack projects** 
 
 - 📝 I sometimes write articles on [hashnode](https://alkanoidev.hashnode.dev/)  
   
