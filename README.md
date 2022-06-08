@@ -12,11 +12,6 @@
 
 - 📝 I sometimes write articles on [hashnode](https://alkanoidev.hashnode.dev/)  
   
-<a href="https://github.com/alkanoidev">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=10&hide_title=true&hide_border=true&theme=github" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&count_private=true&theme=github&hide_title=true&hide_border=true" height="150" />
-
-  </a>
-  
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkanoidev&layout=compact&langs_count=10&hide_title=true&hide_border=true&theme=github)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=alkanoidev&show_icons=true&count_private=true&theme=github&hide_title=true&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alkanoidev&theme=github)
